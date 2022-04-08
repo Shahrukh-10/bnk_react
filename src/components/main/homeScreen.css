@@ -1,0 +1,31 @@
+.container{
+   color: white;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.main{
+    background-color: #130f40;
+    background-image: linear-gradient(315deg, #130f40 0%, #000000 74%);
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.mainText{
+    margin-top: 75px;
+    margin-left: -8rem;
+}
+.lorem{
+    font-size: 28px;
+    font-style: bold;
+}
+.desc{
+    font-size: 5.5em;
+}
+.mainImage{
+    width: 35%;
+}
+.mainImage img{
+    width: 36em;
+}
