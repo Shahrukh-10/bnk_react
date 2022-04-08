@@ -1,0 +1,19 @@
+.components{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around   ;
+flex-shrink: inherit;
+}
+
+/* <?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<gdmRequest> 
+<clientType>desktop</clientType> 
+<lang/> 
+<mode>real</mode> 
+<methodName>processGameMessage</methodName> 
+<currency>GBP</currency> 
+<token>54c276ee-48ff-42bf-9489-8019e630af9d@5</token> 
+<payload> 
+<![CDATA[&GN=wildflower&PID=testuser_tGRnaJCDq1&MSGID=INIT&REC=0&]]> 
+</payload> 
+</gdmRequest>  */
